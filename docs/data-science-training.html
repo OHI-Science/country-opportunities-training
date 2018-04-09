@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>A Training for Country Opportunities with the Ocean Health Index</title>
+  <meta name="description" content="This is official training for country opportunities with global Ocean Health Index assessments.">
+  <meta name="generator" content="bookdown 0.5 and GitBook 2.6.7">
+
+  <meta property="og:title" content="A Training for Country Opportunities with the Ocean Health Index" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="This is official training for country opportunities with global Ocean Health Index assessments." />
+  <meta name="github-repo" content="ohi-science/country-opportunities-training" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="A Training for Country Opportunities with the Ocean Health Index" />
+  
+  <meta name="twitter:description" content="This is official training for country opportunities with global Ocean Health Index assessments." />
+  
+
+<meta name="author" content="The Ocean Health Index Team">
+
+
+<meta name="date" content="2018-04-09">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  
+  
+<link rel="prev" href="index.html">
+
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="lib/css/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="lib/css/style.css" type="text/css" />
+<link rel="stylesheet" href="lib/css/lesson.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">OHI Country Opportunities Training</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome</a></li>
+<li class="chapter" data-level="2" data-path="data-science-training.html"><a href="data-science-training.html"><i class="fa fa-check"></i><b>2</b> data-science-training:::</a></li>
+<li class="divider"></li>
+<li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">A Training for Country Opportunities with the Ocean Health Index</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="data-science-training" class="section level1">
+<h1><span class="header-section-number">Chapter 2</span> data-science-training:::</h1>
+<p>This training book will introduce you to open data science so you can work with data in an open, reproducible, and collaborative way. Open data science means that methods, data, and code are available so that others can access, reuse, and build from it without much fuss. Here you will learn a workflow with R, RStudio, Git, and GitHub, as we describe in <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes <em>et al. 2017, Nature Ecology &amp; Evolution</em>: Our path to better science in less time using open data science tools</a>.</p>
+<p>This is going to be fun, because learning these open data science tools and practices is empowering! This training book is written so you can use it as self-paced learning, or it can be used to teach an in-person workshop where the instructor live-codes. Either way, you should do everything hands-on on your own computer as you learn.</p>
+<p>Before you begin, be sure you are all set up: see the prerequisites in Chapter <a href="#overview"><strong>??</strong></a>.</p>
+<p>Suggested breakdown for a 2-day workshop:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">time</th>
+<th align="right">Day 1</th>
+<th align="right">Day 2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">9-10:30</td>
+<td align="right"><a href="#overview">Motivation</a>, <a href="#rstudio">R &amp; RStudio, Rmarkdown</a></td>
+<td align="right"><a href="#tidyr">Data Wrangling: <code>tidyr</code></a></td>
+</tr>
+<tr class="even">
+<td align="left">break</td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr class="odd">
+<td align="left">11-12:30</td>
+<td align="right"><a href="#github">GitHub</a></td>
+<td align="right"><a href="#programming">Programming</a></td>
+</tr>
+<tr class="even">
+<td align="left">lunch</td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr class="odd">
+<td align="left">13:30-15:00</td>
+<td align="right"><a href="#ggplot2">Visualization: <code>ggplot2</code></a></td>
+<td align="right"><a href="#collaborating">Collaborating with GitHub</a></td>
+</tr>
+<tr class="even">
+<td align="left">break</td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+<tr class="odd">
+<td align="left">15:30-17:00</td>
+<td align="right"><a href="#dplyr">Data Wrangling: <code>dplyr</code></a></td>
+<td align="right">Practicing with ‘real data’</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<script src="lib/js/jquery.min.js"></script>
+<script src="lib/js/bootstrap.min.js"></script>
+<script src="lib/js/lesson.js"></script>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="index.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"google": false,
+"weibo": false,
+"instapper": false,
+"vk": false,
+"all": ["facebook", "google", "twitter", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/OHI-Science/country-opportunities-training/edit/master/index.Rmd",
+"text": "Edit"
+},
+"download": ["country-opportunities-training.pdf"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

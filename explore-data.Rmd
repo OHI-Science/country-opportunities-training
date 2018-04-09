@@ -1,0 +1,31 @@
+# Explore Global Data {#explore} 
+
+```{r explore, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(htmltools)
+```
+
+<!---
+## Objectives and Resources
+
+### Objectives
+
+### Resources 
+
+----
+
+--->
+
+## ohi-global website
+
+## Habitats
+
+## ICO
+
+## Country examples
+
+### Samoa
+
+
+
+
