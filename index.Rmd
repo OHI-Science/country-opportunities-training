@@ -1,5 +1,5 @@
 --- 
-title: "Country Opportunities with the Ocean Health Index"
+title: "OHI Country Opportunities"
 # title: "Country Opportunities with OHI Global Assessments"
 author: "The Ocean Health Index Team"
 date: "`r Sys.Date()`"
@@ -17,7 +17,10 @@ description: "This is official training for country opportunities with global Oc
 
 -- *This book is under active development* --
 
-This training book will help you interpret from Ocean Health Index global assessments and discover opportunities and the country scale.
+This training book will help you interpret from Ocean Health Index global assessments and discover opportunities and the country scale. The opportunities covered in this book will first be conceptual with the OHI framework, and then technical with the data included in the global assessment.
 
 All the information we cover is available online; this book is a resource to everything we cover, as are the links within. 
 
+**How to use this book**
+
+This book is a guide to interpreting and exploring global assessments for a specific country or territory (of the 220 coastal countries/territories that are scored). The book is written to help guide this interpretation and exporation, and will have specific countries as examples. <!---and is best accompanied with a ---> Each chapter will have the same structure, starting with the Objectives and Resources for the chapter, and ending with examples for a specific country or territory. 

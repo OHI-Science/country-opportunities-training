@@ -1,0 +1,55 @@
+# Interpret Global Scores {#interpret} 
+
+```{r interpret, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
+library(htmltools)
+```
+
+## Objectives and Resources
+
+This chapter will focus on the conceptual framework of the Ocean Health Index. We will interpret the goals assessed and the scores for the global assessments, and discuss whether all the goals are relevant for the specific country. 
+
+### Objectives
+
+### Resources 
+
+- http://www.oceanhealthindex.org/methodology/goals
+- http://ohi-science.org/goals/
+- http://www.oceanhealthindex.org/region-scores
+
+----
+
+## Goals Assessed
+
+These are the goals that were assessed
+
+(short, mostly links)
+
+- all 10 
+- philosophy
+- first mention of global data/ref points (will go deeper)
+- first mention pressure/resilience measures (will go deeper)
+
+## Calculating Scores
+
+<!---https://docs.google.com/presentation/d/1CVK8HRDubFU4UEduBK5q6JJebhbyVjB6SpTpjZI6q6Y/edit#slide=id.g215a57b666_0_490--->
+![](images/ohi-process-gslides.png)
+
+
+## Scores and Flowerplots
+
+Interpreting scores (with global average) 
+
+- 1-100
+- flower plots
+
+## Country examples
+
+### Samoa
+
+For Samoa, let's start off by looking at [oceanhealthindex.org/region-scores](http://www.oceanhealthindex.org/region-scores) and typing in [Samoa](http://www.oceanhealthindex.org/region-scores/scores/samoa).
+
+- are any goals not assessed (NA)?
+- what do their scores mean?
+
+

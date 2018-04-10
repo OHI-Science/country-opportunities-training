@@ -1,0 +1,31 @@
+# Overview of Global Assessments {#overview} 
+
+```{r overview, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
+library(htmltools)
+```
+
+## Objectives and Resources
+
+### Objectives
+
+### Resources 
+
+The Ocean Health Index has two main websites – [oceanhealthindex.org](http://www.oceanhealthindex.org) and [ohi-science.org](http://ohi-science.org/) – each with their own purpose. As a general rule of thumb, [oceanhealthindex.org](http://www.oceanhealthindex.org) gives an overview of OHI, while (ohi-science.org](http://ohi-science.org/) provides a technical perspective of OHI and insights into the open data science that supports the creation of OHI scores.
+
+- http://ohi-science.org/
+- http://www.oceanhealthindex.org
+
+## OHI Framework
+
+- Katona report content
+
+## Countries and Territories Assessed 
+
+The best place to get a sense of the countries assessed in global OHI assessments is [oceanhealthindex.org/region-scores](http://www.oceanhealthindex.org/region-scores/)
+
+----
+
+## Country examples
+
+### Samoa

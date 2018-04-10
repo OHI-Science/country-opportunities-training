@@ -5,27 +5,58 @@ knitr::opts_chunk$set(echo = TRUE)
 library(htmltools)
 ```
 
-<!---
 ## Objectives and Resources
+
+What data are included to calculate scores for global assessments? There are actually many levels to answering this. There are over 100 data sources that are used to calculate global assessments, and these are the data we most easily report. However, the data available for each of the 220 countries and territories varies within these data sources. Here we will begin to explore those data.
 
 ### Objectives
 
+- explore data sources for global assessments
+- explore data for a specific country
+- discuss gapfilling data
+
 ### Resources 
+
+- http://ohi-science.org/ohi-global/layers_table.html
+- (Mapping Uncertainty Due to Missing Data)[http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0160377)
 
 ----
 
---->
+## Data sources for global assessments
 
-## ohi-global website
+- status/trend
+- pressures/resilience
 
-## Habitats
+## Data for a specific country
 
-## ICO
+- Habitats
+- Fisheries
+- Iconic Species
+
+## Gapfilling data
+
+- carpet plots
 
 ## Country examples
 
 ### Samoa
 
 
+```{r setup sam, eval=FALSE, echo=FALSE}
+
+key <- 'sam'
+dir_temp <- '~/github/clip-n-ship'
+
+## load libraries. NOTE: functions.r and brew have trouble with install_github; need load_all.
+library(tidyverse)
+library(ohirepos) # devtools::install_github("ohi-science/ohirepos") 
+                  # devtools::load_all('~/github/ohirepos') 
+
+## read in repo registry information, add working directory 
+repo_registry <- readr::read_csv('repo_registry.csv') %>%
+  dplyr::filter(study_key == key) %>%
+  dplyr::mutate(dir_repo = file.path(dir_temp, key))
+
+```
 
 
