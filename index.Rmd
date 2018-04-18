@@ -17,7 +17,9 @@ description: "This is official training for country opportunities with global Oc
 
 -- *This book is under active development* --
 
-This training book will help you interpret from Ocean Health Index global assessments and discover opportunities and the country scale. The opportunities covered in this book will first be conceptual with the OHI framework, and then technical with the data included in the global assessment.
+This training book will help you interpret from Ocean Health Index global assessments and discover opportunities and the country scale. The opportunities covered in this book will first be conceptual with the OHI framework, and then technical with the data included in the global assessment. 
+
+We will discuss how the information included in the OHI global assessment represents your country. By the end of the workshop, we will recalculate scores after removing any existing information that does not represent your country, and discuss a plan for including new information that better represents your country. 
 
 All the information we cover is available online; this book is a resource to everything we cover, as are the links within. 
 

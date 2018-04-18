@@ -20,6 +20,10 @@ The Ocean Health Index has two main websites – [oceanhealthindex.org](http://w
 
 - Katona report content
 
+<!---https://docs.google.com/presentation/d/1CVK8HRDubFU4UEduBK5q6JJebhbyVjB6SpTpjZI6q6Y/edit#slide=id.g215a57b666_0_490--->
+![](images/ohi-process-gslides.png)
+
+
 ## Countries and Territories Assessed 
 
 The best place to get a sense of the countries assessed in global OHI assessments is [oceanhealthindex.org/region-scores](http://www.oceanhealthindex.org/region-scores/)

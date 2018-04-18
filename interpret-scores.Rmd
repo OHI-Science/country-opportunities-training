@@ -1,4 +1,5 @@
 # Interpret Global Scores {#interpret} 
+<!---or interpret framework?--->
 
 ```{r interpret, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
@@ -32,10 +33,6 @@ These are the goals that were assessed
 
 ## Calculating Scores
 
-<!---https://docs.google.com/presentation/d/1CVK8HRDubFU4UEduBK5q6JJebhbyVjB6SpTpjZI6q6Y/edit#slide=id.g215a57b666_0_490--->
-![](images/ohi-process-gslides.png)
-
-
 ## Scores and Flowerplots
 
 Interpreting scores (with global average) 
@@ -43,13 +40,20 @@ Interpreting scores (with global average)
 - 1-100
 - flower plots
 
-## Country examples
 
-### Samoa
 
-For Samoa, let's start off by looking at [oceanhealthindex.org/region-scores](http://www.oceanhealthindex.org/region-scores) and typing in [Samoa](http://www.oceanhealthindex.org/region-scores/scores/samoa).
+## Discussion: Are all goals relevant here?
+
+Let's start off by looking at [oceanhealthindex.org/region-scores](http://www.oceanhealthindex.org/region-scores) and typing in the country of interest, for example: [Samoa](http://www.oceanhealthindex.org/region-scores/scores/samoa).
 
 - are any goals not assessed (NA)?
 - what do their scores mean?
+
+## Discussion: Are all resilience measures relevant here?
+
+
+
+
+
 
 
