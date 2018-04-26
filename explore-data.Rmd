@@ -22,7 +22,9 @@ What data are included to calculate scores for global assessments? There are act
 
 ----
 
-## Data sources for global assessments
+## Goal Models and Data Sources
+
+More information on each goal in the global assessment: [ohi-science.org/ohi-global/goals](http://ohi-science.org/ohi-global/goals.html)
 
 - status/trend
 - pressures/resilience
@@ -37,12 +39,26 @@ When data layers have sub-categories of information within them, such as habitat
 
 
 
-## Gapfilling data in global assessments
-(move this to country opps!)
+## Gapfilling Data: Global Assessments
 
+### Methods 
 - For priority setting.
 - Intro of gapfilling
     - Mel's paper (not LE)
     - Mel's presentation
+
+### Results
+The results for 220 countries in 2015. From Frazier et al: 
+
+> Regions varied greatly in the contribution of gapfilled data to their overall index scores. Regions with larger amounts of gapfilled data tended to be smaller and/or territorial jurisdictions of countries, highlighting the fact that most territories and smaller countries (often with smaller economies and other resources) tend to be monitored and assessed less frequently. 
+
+![](images/frazier_fig2a.png)
+*Figure 2a*
+<br>
+
+> For the regions, the contribution of gapfilled data to their index scores ranged from 0 to 64%. For many regions, index scores were calculated using relatively little gapfilled data: 27 regions (of 220) had 5% gapfilled data, and 56 regions had 10%. ... In general, the contribution of gapfilled data to index scores was fairly high for Islands in the South Pacific.
+
+![](images/frazier_fig2b.png)
+*Figure 2b*
 
 - carpet plots
