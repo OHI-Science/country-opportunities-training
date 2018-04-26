@@ -9,13 +9,13 @@ library(htmltools)
 
 What data are included to calculate scores for global assessments? There are actually many levels to answering this. There are over 100 data sources that are used to calculate global assessments, and these are the data we most easily report. However, the data available for each of the 220 countries and territories varies within these data sources. Here we will begin to explore those data.
 
-### Objectives
+**Objectives**
 
 - explore data sources for global assessments
 - explore data for a specific country
 - discuss gapfilling data
 
-### Resources 
+**Resources**
 
 - http://ohi-science.org/ohi-global/layers_table.html
 - (Mapping Uncertainty Due to Missing Data)[http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0160377)
@@ -29,16 +29,20 @@ What data are included to calculate scores for global assessments? There are act
 
 ## Data for a specific country
 
+When data layers have sub-categories of information within them, such as habitat type, only the the sub-categories that are relevant to a specific region will be included. For example, both Samoa and Canada have data layers about habitat, but Samoa has...
+
 - Habitats
 - Fisheries
 - Iconic Species
 
-## Gapfilling data
+
+
+## Gapfilling data in global assessments
+(move this to country opps!)
+
+- For priority setting.
+- Intro of gapfilling
+    - Mel's paper (not LE)
+    - Mel's presentation
 
 - carpet plots
-
-## Country examples
-
-### Samoa
-
-

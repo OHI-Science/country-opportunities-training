@@ -7,29 +7,35 @@ library(htmltools)
 
 ## Objectives and Resources
 
-### Objectives
+**Objectives**
 
-### Resources 
+**Resources**
 
-The Ocean Health Index has two main websites – [oceanhealthindex.org](http://www.oceanhealthindex.org) and [ohi-science.org](http://ohi-science.org/) – each with their own purpose. As a general rule of thumb, [oceanhealthindex.org](http://www.oceanhealthindex.org) gives an overview of OHI, while (ohi-science.org](http://ohi-science.org/) provides a technical perspective of OHI and insights into the open data science that supports the creation of OHI scores.
+The Ocean Health Index has two main websites – [oceanhealthindex.org](http://www.oceanhealthindex.org) and [ohi-science.org](http://ohi-science.org/) – each with their own purpose. As a general rule of thumb, [oceanhealthindex.org](http://www.oceanhealthindex.org) gives an overview of OHI, while [ohi-science.org](http://ohi-science.org/) provides a technical perspective of OHI and insights into the open data science that supports the creation of OHI scores.
 
 - http://ohi-science.org/
 - http://www.oceanhealthindex.org
 
-## OHI Framework
 
-- Katona report content
+## Consider This:
 
-<!---https://docs.google.com/presentation/d/1CVK8HRDubFU4UEduBK5q6JJebhbyVjB6SpTpjZI6q6Y/edit#slide=id.g215a57b666_0_490--->
-![](images/ohi-process-gslides.png)
-
+[link to a shortened version of this presentation](https://docs.google.com/presentation/d/1kpKiCrdLHFwgysgskFzei8RaAfgS2rNg_cypS54JOkg/edit#slide=id.g390ee9ea07_0_0)
 
 ## Countries and Territories Assessed 
 
 The best place to get a sense of the countries assessed in global OHI assessments is [oceanhealthindex.org/region-scores](http://www.oceanhealthindex.org/region-scores/)
 
-----
+## Repeated Annually Since 2012
 
-## Country examples
+## Open Science and Data Science
 
-### Samoa
+## OHI+
+
+- 3 tiers: country opportunities, tailor global, tailor OHI+
+
+## OHI Process
+
+<!---https://docs.google.com/presentation/d/1CVK8HRDubFU4UEduBK5q6JJebhbyVjB6SpTpjZI6q6Y/edit#slide=id.g215a57b666_0_490--->
+![](images/ohi-process-gslides.png)
+
+

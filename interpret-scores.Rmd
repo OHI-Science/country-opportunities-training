@@ -10,9 +10,9 @@ library(htmltools)
 
 This chapter will focus on the conceptual framework of the Ocean Health Index. We will interpret the goals assessed and the scores for the global assessments, and discuss whether all the goals are relevant for the specific country. 
 
-### Objectives
+**Objectives**
 
-### Resources 
+**Resources**
 
 - http://www.oceanhealthindex.org/methodology/goals
 - http://ohi-science.org/goals/
@@ -22,17 +22,31 @@ This chapter will focus on the conceptual framework of the Ocean Health Index. W
 
 ## Goals Assessed
 
-These are the goals that were assessed
+**Global Ocean Health Index assessments score 10 goals, some of which have sub-goals**. 
 
-(short, mostly links)
+The Ocean Health Index measures the ability of oceans to sustainably provide 10 products or services (called "goals") that are important to humans. Here you will find a description of the goals used in global assessments. Goal-by-goal, you can explore the data used to model status and trend, as well as the pressures and resilience measures contributing to goal scores.     
 
-- all 10 
-- philosophy
+![](https://docs.google.com/drawings/d/17N97_cydibY4QM79tnVf-hLDii0NNm3VhBJ2hhkKKkM/pub?w=1344&h=192)
+
+### Goal Philosophies
+
+presentation
+
+### Calculating scores
+
+**Goal scores are calculated by modeling data first as Present Status and Likely Future State.**  
+Likely Future State is a combination of status, trend, pressures and resilience calculations, which unequally contribute to goal scores.  
+
+![](https://docs.google.com/drawings/d/1O08iEoo3qxOZRoK6Ohv-jdouTBsN_kafJjIhEEqb-yg/pub?w=960&h=720)
+
 - first mention of global data/ref points (will go deeper)
 - first mention pressure/resilience measures (will go deeper)
 
-## Calculating Scores
+### Goal Models and Data
 
+More information on each goal in the global assessment: [ohi-science.org/ohi-global/goals](http://ohi-science.org/ohi-global/goals.html)
+
+  
 ## Scores and Flowerplots
 
 Interpreting scores (with global average) 
