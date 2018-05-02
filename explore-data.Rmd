@@ -22,16 +22,19 @@ What data are included to calculate scores for global assessments? There are act
 
 ----
 
+
 ## Goal Models and Data Sources
 
 More information on each goal in the global assessment: [ohi-science.org/ohi-global/goals](http://ohi-science.org/ohi-global/goals.html)
 
 - status/trend
-- pressures/resilience
+<!--- - pressures/resilience --->
 
-## Data for a specific country
+We will look at a few goals that we will explore deeper for your country. 
 
+<!---
 When data layers have sub-categories of information within them, such as habitat type, only the the sub-categories that are relevant to a specific region will be included. For example, both Samoa and Canada have data layers about habitat, but Samoa has...
+--->
 
 - Habitats
 - Fisheries
@@ -42,7 +45,7 @@ When data layers have sub-categories of information within them, such as habitat
 ## Gapfilling Data: Global Assessments
 
 ### Methods 
-- For priority setting.
+- For priority setting
 - Intro of gapfilling
     - Mel's paper (not LE)
     - Mel's presentation
@@ -61,4 +64,8 @@ The results for 220 countries in 2015. From Frazier et al:
 ![](images/frazier_fig2b.png)
 *Figure 2b*
 
-- carpet plots
+<br>
+
+This plot is meant to show an overall picture of gapfilling in global assessments. Each row is a different country, and each column is a different goal (labeled on top), split into four years of assessments (2012-2015). 
+
+![](images/carpetPlot_gapfilling2015.png)

@@ -5,7 +5,7 @@ language:
 rmd_files: [
   "index.Rmd",
   "overview.Rmd",
-  "interpret-scores.Rmd",
+  "ohi-framework.Rmd",
   "explore-data.Rmd"
   ]
 delete_merged_file: true

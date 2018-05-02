@@ -1,64 +1,15 @@
-# Overview of Global Assessments {#overview} 
+# Overview {#overview} 
 
 ```{r overview, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
 library(htmltools)
 ```
 
-## Objectives and Resources
+Welcome. 
 
-A presentation-based introduction to the whole OHI program.
+In this workshop we will 
 
-**Objectives**
+How do these goals represent your country? There are two ways we will look into this. First, at a conceptual level, we will discuss whether the philosophies behind the goals represent what is important to your country.
 
-There will be a presentation covering the following: 
-
-- What the OHI framework is, and why it is important
-- The OHI repeatable assessment process
-- The OHI Program "Umbrella": 
-    - OHI global assessments, repeated annually since 2012
-    - OHI+ <!---3 tiers: country opportunities, tailor global, tailor OHI+--->
-    - Science, data science, and open science
-    - Community of practice
-- Support materials on ohi-science.org
-
-**Resources**
-
-The Ocean Health Index has two main websites – [oceanhealthindex.org](http://www.oceanhealthindex.org) and [ohi-science.org](http://ohi-science.org/) – each with their own purpose. As a general rule of thumb, [oceanhealthindex.org](http://www.oceanhealthindex.org) gives an overview of OHI, while [ohi-science.org](http://ohi-science.org/) provides a technical perspective of OHI and insights into the open data science that supports the creation of OHI scores.
-
-- http://ohi-science.org/
-- http://www.oceanhealthindex.org
-
-
-## Ocean Health Index Program Overview
-
-[link to a shortened version of this presentation](https://docs.google.com/presentation/d/1kpKiCrdLHFwgysgskFzei8RaAfgS2rNg_cypS54JOkg/edit#slide=id.g390ee9ea07_0_0)
-
-
-<!---https://docs.google.com/presentation/d/1CVK8HRDubFU4UEduBK5q6JJebhbyVjB6SpTpjZI6q6Y/edit#slide=id.g215a57b666_0_490
-![](images/ohi-process-gslides.png) --->
-
-## Countries and Territories Assessed 
-
-Global OHI assessments score 220 coastal countries and territories. 
-
-The best place to get a sense of the countries assessed in global OHI assessments is exploring interactively at [oceanhealthindex.org/region-scores](http://www.oceanhealthindex.org/region-scores/).
-
-![](images/ohi-org-global.png)
-
-## Interpreting scores
-
-All reported scores are between 0-100, with 0 being the lowest and 100 being the highest. 
-
-OHI scores represent how well coastal nations and territories deliver a suite of ocean-derived benefits to humans, on a scale of 0-100. Scores are represented in flower plots, where each petal represents an OHI goal or sub-goal. The center number is the region’s overall Index score.
-
-Let's have a look at the Global average for 2017:
-
-![](images/flower_Globalaverage.png)
-
-The petal length and color convey the score of the goal, where longer, dark blue petals are closer to achieving their target. The width of the petals represents their weighting, where all goals are equally weighted but sub-goals vary.
-
-Now that we know all the flower plot components, what insights can we gain? Here the Index score is 70/100, highlighting room for improvement to achieve a healthy, sustainably managed ocean. Species & habitats scored the highest, and mariculture & fisheries scored the lowest.
-
-
+Second, we will look at the data that are included in the goal models. This question has two parts. A) Is the model itself a good representation, based on the available global datasets (ie with data mostly available for each country)? B) Are data available for Samoa, or is this information gapfilled?
 
