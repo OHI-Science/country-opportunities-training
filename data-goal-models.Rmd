@@ -1,4 +1,4 @@
-# Explore Global Data {#explore} 
+# Data and Goal Models: Global {#data-goal-models} 
 
 ```{r explore, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -11,9 +11,8 @@ What data are included to calculate scores for global assessments? There are act
 
 **Objectives**
 
-- explore data sources for global assessments
-- explore data for a specific country
-- discuss gapfilling data
+- explore goal models and data sources for global assessments
+- discuss gapfilling data in global assessments
 
 **Resources**
 
@@ -27,19 +26,13 @@ What data are included to calculate scores for global assessments? There are act
 
 More information on each goal in the global assessment: [ohi-science.org/ohi-global/goals](http://ohi-science.org/ohi-global/goals.html)
 
-- status/trend
-<!--- - pressures/resilience --->
 
-We will look at a few goals that we will explore deeper for your country. 
+We will focus on a few goals that we will then explore deeper for your country. For example:
 
-<!---
-When data layers have sub-categories of information within them, such as habitat type, only the the sub-categories that are relevant to a specific region will be included. For example, both Samoa and Canada have data layers about habitat, but Samoa has...
---->
-
+- Tourism & Recreation
 - Habitats
 - Fisheries
 - Iconic Species
-
 
 
 ## Gapfilling Data: Global Assessments
@@ -66,6 +59,6 @@ The results for 220 countries in 2015. From Frazier et al:
 
 <br>
 
-This plot is meant to show an overall picture of gapfilling in global assessments. Each row is a different country, and each column is a different goal (labeled on top), split into four years of assessments (2012-2015). 
+This plot is meant to show an overall picture of gapfilling in global assessments. Each row is a different country, and each column is a different goal. In these plots, reds mean the highest amounts of gapfilling, yellows are the least, and grey means not applicable. 
 
-![](images/carpetPlot_gapfilling2015.png)
+![](images/carpetPlot_gapfillingFrazierS2Fig.TIFF)

@@ -1,4 +1,4 @@
-# OHI Framework {#framework} 
+# OHI Framework: Global {#framework} 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
@@ -7,23 +7,24 @@ library(htmltools)
 
 ## Objectives and Resources
 
-A presentation-based introduction to the whole OHI program.
-
 This chapter will focus on the conceptual framework of the Ocean Health Index. We will interpret the goals assessed and the scores for the global assessments, and discuss whether all the goals are relevant for the specific country. 
 
 
 **Objectives**
 
+<!---
 There will be a presentation covering the following: 
 
 - What the OHI framework is, and why it is important
 - The OHI repeatable assessment process
 - The OHI Program "Umbrella": 
     - OHI global assessments, repeated annually since 2012
-    - OHI+ <!---3 tiers: country opportunities, tailor global, tailor OHI+--->
+    - OHI+ <!---3 tiers: country opportunities, tailor global, tailor OHI+
     - Science, data science, and open science
     - Community of practice
 - Support materials on ohi-science.org
+
+--->
 
 **Resources**
 
@@ -37,17 +38,21 @@ The Ocean Health Index has two main websites – [oceanhealthindex.org](http://w
 - http://ohi-science.org/goals/
 - http://www.oceanhealthindex.org/region-scores
 
+You start with the philosophy of the goal, and think about the ideal data and model. You then look for existing data to use, and will likely have to modify the model to accommodate the best available data. Lowndes et al 2015.
 
-
+<!---
 ## Ocean Health Index Program Overview
 
 [link to a shortened version of this presentation](https://docs.google.com/presentation/d/1kpKiCrdLHFwgysgskFzei8RaAfgS2rNg_cypS54JOkg/edit#slide=id.g390ee9ea07_0_0)
 
+--->
 
 <!---https://docs.google.com/presentation/d/1CVK8HRDubFU4UEduBK5q6JJebhbyVjB6SpTpjZI6q6Y/edit#slide=id.g215a57b666_0_490
 ![](images/ohi-process-gslides.png) --->
 
+<!---
 ![](images/SustainableFisheries.png)
+--->
 
 <!--- 
 ## Countries and Territories Assessed 

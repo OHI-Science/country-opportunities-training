@@ -7,9 +7,52 @@ library(htmltools)
 
 Welcome. 
 
-In this workshop we will 
+<!--- Country Opportunities workshops ... Two Tiers...--->
 
-How do these goals represent your country? There are two ways we will look into this. First, at a conceptual level, we will discuss whether the philosophies behind the goals represent what is important to your country.
+In this workshop we will take an in-depth look at OHI Global Assessments. We will focus on what is included in global assessments, both conceptually and concretely by looking at data. 
 
-Second, we will look at the data that are included in the goal models. This question has two parts. A) Is the model itself a good representation, based on the available global datasets (ie with data mostly available for each country)? B) Are data available for Samoa, or is this information gapfilled?
+A main objective of this workshop is to explore how scores from global assessments represent a specific country. This will allow us to identify opportunities for a country, both in terms of management action based on the seven years of global scores, and in terms of planning for further OHI+ assessments. 
+
+## Country Opportunities and OHI+
+
+This is a Countries Opportunity Workshop — Tier 1. This means we'll acheive X,Y,Z. By the end of the workshop we'll have ideas for how you could make recommendations for management, or have a plan for Tier 2 or OHI+. 
+
+
+## What to Expect
+
+In this workshop we will discuss both the OHI Framework and the OHI Toolbox, focusing on the tailored parts and how they represent your country. 
+
+![](https://docs.google.com/drawings/d/e/2PACX-1vRpFXuXcNgxc7Dboxyjv57bEvUL4GaGz78WhAyj7RfcikudoQBiOW7m5XM27BQhKmDpeIoucRY3lexC/pub?w=624&h=480)
+
+We will discuss the following questions. 
+
+For the OHI Framework: 
+
+1. "How do the goals included in global assessments represent your country?" We will discuss whether the philosophies behind the goals represent what is important to your country.
+
+Then, on a more technical level through the OHI Toolbox: 
+
+1. "Does the goal model represent the philosophy of this goal for your country?" We will discuss the global datasets that were available and how the data were modeled
+2. "Does the available data represent your country?" We will explore whether the data for your country was reported or whether this information was gapfilled
+
+
+## By the end of the Workshop
+
+We will 
+
+<!---
+
+OHI Framework: 
+
+![](https://docs.google.com/drawings/d/e/2PACX-1vRpYCAnH7mRVMOHSRqpYEgsnSkx6b7rR41ifycV8zcbY1lda57TADr9ia_OVifC53U6DagevUjoAzCz/pub?w=768&h=192)
+
+<br>
+
+OHI Framework, Toolbox, and scores:
+
+![](https://docs.google.com/drawings/d/e/2PACX-1vSsV1sJgpZKCQTnNrPKofXHhYAGah49iD_Muh360Z0wFDcJnY8X7XcBJkeyz7zjRX16SweUO4h87rJG/pub?w=624&h=480)
+
+<br>
+
+--->
 
