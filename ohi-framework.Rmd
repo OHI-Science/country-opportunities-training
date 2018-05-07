@@ -65,7 +65,7 @@ The best place to get a sense of the countries assessed in global OHI assessment
 
 --->
 
-## Interpreting scores
+## Interpreting global average scores
 
 All reported scores are between 0-100, with 0 being the lowest and 100 being the highest. 
 
@@ -112,6 +112,9 @@ Likely Future State is a combination of status, trend, pressures and resilience 
 ### Reference points
 
 Reference points exist
+
+
+## Interpreting country scores
 
 <!---
 ### Pressures and Resilience
